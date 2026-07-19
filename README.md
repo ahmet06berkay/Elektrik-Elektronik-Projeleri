@@ -21,3 +21,6 @@ Ev içi topraklama hattı kurulumu
 5-)Beşliyi kapattım ve duvara sabitledim.yeni alıp bağlantılarını kurduğum erkek fişide prize takınca sistem güzel ve güvenli bir şekilde çalıştı.
 
 6-Kullanılan parçaların israf olmaması adına kullanılan beşlinin kablosu ile eski duvara takılan üçlü birleştirilerek bir uzatmalı üçlü elde edildi.Montaj tamamlandıktan sonra sistemin sürekliliği kontrol edildi. Pensampermetrenin akım trafosu pensi aracılığıyla, hat üzerinden geçen akımın oluşturduğu elektromanyetik alan ölçülmüş ve sistemin güvenli çalıştığı doğrulanmıştır.
+
+-*-SONUÇ-*-
+Elimizdeki uzatmalı beşliyi bir uzatmalı üçlüye çevirdik,Duvara takılı olan üçlüyüde daha güvenli bir beşli halina getirdik.
